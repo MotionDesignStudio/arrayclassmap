@@ -39,3 +39,11 @@ USAGE:
 	Ruby Example :
 	
 	# ./mapTest.rb
+	
+	Java Example :
+	
+	-  Compile 
+	# javac doComputations.java
+	
+	-  Run
+	# java doComputations
