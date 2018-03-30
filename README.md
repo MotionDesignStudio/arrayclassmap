@@ -21,7 +21,7 @@ USAGE:
 
 	usage I :
 	
-		Remove the "#!/usr/bin/php7.2" at the top if you execute like below.
+	Remove the "#!/usr/bin/php7.2" at the top if you execute like below.
 	# php -f mapTest.php 
 
 	usage II :
