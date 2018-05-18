@@ -47,3 +47,7 @@ USAGE:
 	
 	-  Run
 	# java doComputations
+	
+	Perl Example :
+	
+	# ./mapTest.pl
