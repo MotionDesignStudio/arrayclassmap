@@ -4,13 +4,6 @@ Iterate over a list or array to build a new list or array, using map as the iter
 
 */
 
-var myNumbers = [
-	10,
-	20,
-	30,
-	40
-];
-
 var aNumList = [ 4, 9, 16, 25];
 
 
